@@ -131,4 +131,4 @@ to simulate a real business website.
 
 ## 👨‍💻 Author
 
-Developed by [Peyman Ayoubvand]
+Developed by Peyman Ayoubvand
