@@ -19,6 +19,16 @@
 
 ---
 
+## 🎯 Project Focus
+
+- 🎨 UI/UX Design Principles (User-centered design, usability, visual hierarchy)
+- 📈 Marketing-Oriented Design (Conversion-focused layout and CTAs)
+- 🔍 SEO Optimization (On-page SEO, structured content, performance)
+- ⚡ Performance Optimization (Speed, Core Web Vitals, image optimization)
+- 🍝 Real-World Business Case (Restaurant website with booking & menu system)
+
+---
+
 ## 🧠 SEO Optimization
 
 SEO was implemented using Rank Math plugin with focus on key landing pages:
