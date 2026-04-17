@@ -81,9 +81,9 @@ Visitor → Popup → Email capture → Discount email
 
 ## 📱 Mobile View
 
-👉 [Homepage (Mobile)](screenshots/13-mobile-home.png.png)  
-👉 [Menu Page (Mobile)](screenshots/14-mobile-menu.png.png)  
-👉 [Reservation Page (Mobile)](screenshots/17-mobile-reservation.png.png)
+👉 [Homepage (Mobile)](screenshots/13-mobile-home.png)  
+👉 [Menu Page (Mobile)](screenshots/14-mobile-menu.png)  
+👉 [Reservation Page (Mobile)](screenshots/17-mobile-reservation.png)
 
 ---
 
