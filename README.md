@@ -46,8 +46,8 @@ SEO was implemented using Rank Math plugin with focus on key landing pages:
 ---
 
 ###  Performances
-- [Mobile Performance](./screenshots/12-pagespeed-mobile.png)
 - [Desktop Performance](./screenshots/11-pagespeed-desktop.png)
+- [Mobile Performance](./screenshots/12-pagespeed-mobile.png)
 
 ---
 
