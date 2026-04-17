@@ -1,1 +1,94 @@
 
+/* =====================
+   GLOBAL STYLES
+===================== */
+
+.site-below-footer-wrap {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.wpforms-submit:hover{
+	opacity: 1 !important;
+  background: #ffffff !important;
+	color: #eb5058 !important;
+	
+}
+
+/* Half-width fields */
+.wpforms-container .half-date,
+.wpforms-container .half-time,
+.wpforms-container .half-phone,
+.wpforms-container .half-guests {
+    width: 48% !important;
+    float: left !important;
+    clear: none !important;
+}
+
+/*  Spacing for left column */
+.wpforms-container .half-date,
+.wpforms-container .half-phone {
+    margin-right: 4%;
+}
+
+/* Fix input and select width */
+.wpforms-container .half-date input,
+.wpforms-container .half-time input,
+.wpforms-container .half-phone input,
+.wpforms-container .half-guests select {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+
+/*------- Mobile-Footer------- */
+@media (max-width: 767px) {
+	
+	
+.elementor-element.elementor-element-62cbedf,.footer-note-container{
+	width:50% !important;
+	}
+h2.elementor-element.elementor-element-62cbedf, h2.footer-note-container{
+	font-size:25px;
+	font-weight: bold;
+	}
+	.elementor-element.elementor-element-62cbedf p , .footer-note-container p{
+	font-size:11px;
+	font-weight: bold;
+
+	}
+h2.elementor-heading-title, h2.footer-note-container{
+		font-size:15px !important;
+	}
+	
+	
+	
+.elementor-element.elementor-element-72b7dff , .map-container{
+	max-width:50% !important;
+	display: flex;
+  justify-content: center;
+	}
+.elementor-element.elementor-widget-google_maps,.map-itself{
+	height:300px;
+}
+	
+	.site-below-footer-wrap {
+	line-height:12px;
+}
+	
+	.footer-menu a{
+		font-size:11px;
+		font-weight: bold;
+	}
+	
+	.get-in-touch{
+		order:1
+	}
+}
+
